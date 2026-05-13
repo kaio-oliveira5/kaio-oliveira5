@@ -46,8 +46,8 @@ Aplicação React com gerenciamento global de estado utilizando Redux Toolkit.
 # 📫 Contato
 
 - GitHub: github.com/kaio-oliveira5
-- LinkedIn: SEU LINK
-- Email: SEU EMAIL
+- LinkedIn: www.linkedin.com/in/kaio-oliveira-683698362
+- Email: kaiovinicios05@gmail.com
 
 ---
 
