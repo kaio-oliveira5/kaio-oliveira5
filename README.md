@@ -1,16 +1,56 @@
-## Hi there 👋
+# Kaio Oliveira
 
-<!--
-**kaio-oliveira5/kaio-oliveira5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Frontend / Full Stack  
+🌍 Brasil • Itália  
+🚀 Focado em aplicações web modernas, interfaces responsivas e automações utilizando React, TypeScript e Firebase.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Tecnologias
+
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![Styled Components](https://img.shields.io/badge/-StyledComponents-000?style=for-the-badge&logo=styledcomponents)
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=sass)
+
+---
+
+# 📌 Projetos em Destaque
+
+## ⚽ BBBE
+
+Sistema institucional com validação escolar, assinatura digital e geração automática de PDF.
+
+---
+
+## 🏐 Sacada Certa
+
+Sistema institucional utilizado para gerenciamento de inscrições esportivas.
+
+---
+
+## 🍔 eFood React
+
+Frontend inspirado no eFood utilizando React, TypeScript e Styled Components.
+
+---
+
+## 📇 Lista de Contatos
+
+Aplicação React com gerenciamento global de estado utilizando Redux Toolkit.
+
+---
+
+# 📫 Contato
+
+- GitHub: github.com/kaio-oliveira5
+- LinkedIn: SEU LINK
+- Email: SEU EMAIL
+
+---
+
+# 📊 GitHub Stats
+
+![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=kaio-oliveira5&show_icons=true&theme=tokyonight)
