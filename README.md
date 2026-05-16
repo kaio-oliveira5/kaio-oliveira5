@@ -57,14 +57,6 @@ Aplicação React com gerenciamento global de estado utilizando Redux Toolkit.
 
 # 📊 GitHub Stats
 
-<p>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=kaio-oliveira5&show_icons=true&theme=tokyonight"
-  />
+![Kaio GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kaio-oliveira5&show_icons=true&theme=tokyonight)
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-oliveira5&layout=compact&theme=tokyonight"
-  />
-</p>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaio-oliveira5&layout=compact&theme=tokyonight)
