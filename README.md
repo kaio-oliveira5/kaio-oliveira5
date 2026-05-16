@@ -34,6 +34,7 @@ Sistema institucional utilizado para gerenciamento de inscrições esportivas.
 ## 🍔 eFood React
 
 Aplicação de delivery inspirada no eFood desenvolvida com React, TypeScript, Redux Toolkit e Styled Components, contendo carrinho dinâmico, checkout multi-step, validações e integração com API.
+
 ---
 
 ## 📇 Lista de Contatos
